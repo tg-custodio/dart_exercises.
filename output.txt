@@ -1,0 +1,5 @@
+Student: Tony Gem Custodio
+Celsius: 30.0°C
+Fahrenheit: 86.0°F
+Number of conversions: 1
+Is the temperature hot?: true
